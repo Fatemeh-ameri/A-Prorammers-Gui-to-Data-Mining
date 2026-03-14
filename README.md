@@ -1,3 +1,5 @@
+# Data Mining Algorithms (Book Exercises)
+
 This repository contains Python implementations of exercises and examples inspired by the book
 "**A Programmer's Guide to Data Mining**".
 
