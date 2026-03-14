@@ -1,3 +1,16 @@
-# A-Prorammers-Gui-to-Data-Mining
-I started reading the book "A Programmer's Gui to Data Mining," and I'll upload my code related to its practices and examples.
-Your constructive feedback will help me do my best.
+This repository contains Python implementations of exercises and examples inspired by the book
+"**A Programmer's Guide to Data Mining**".
+
+The goal is to understand fundamental data mining techniques by implementing them from scratch.
+
+## Topics Covered
+
+- Recommender systems
+- Nearest neighbor algorithms
+- Cosine similarity
+- Distance metrics (Manhattan, Euclidean, Minkowski)
+- Slope One recommendation algorithm
+
+## Dataset
+
+MovieLens 100K dataset
