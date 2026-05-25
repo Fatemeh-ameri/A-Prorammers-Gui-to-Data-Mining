@@ -1,21 +1,18 @@
-# Data Mining Algorithms (Book Exercises)
+# Data Mining Algorithms
 
-This repository contains Python implementations of exercises and examples inspired by the book
+This repository contains Python implementations of exercises and examples based on the book **A Programmer's Guide to Data Mining**.
 
-"**A Programmer's Guide to Data Mining**".
-
-The goal is to understand fundamental data mining techniques by implementing them from scratch.
-
-⚠️ This repository is a work in progress as I continue working through the chapters.
+The notebooks focus on basic data mining and recommendation system concepts, including similarity measures, nearest neighbors, and rating prediction.
 
 ## Topics Covered
 
 - Recommender systems
-- Nearest neighbor algorithms
+- Nearest neighbor methods
 - Cosine similarity
-- Distance metrics (Manhattan, Euclidean, Minkowski)
+- Distance metrics such as Manhattan, Euclidean, and Minkowski distance
 - Slope One recommendation algorithm
+- Basic rating prediction
 
 ## Dataset
 
-MovieLens 100K dataset
+Some notebooks use the MovieLens 100K dataset.
